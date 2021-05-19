@@ -1,0 +1,47 @@
+{
+
+  "name": "Dinosaur",
+  "logoURI": "https://i.ibb.co/qMBzvt9/D2-1.png",
+
+  "keywords": [
+
+      "dinoc",
+
+      "DINOC",
+
+      "1000000000000000"
+
+    ],
+    "timestamp": "2021-05-17T02:35:20.000+00:00",
+
+    "tokens": [
+
+      {
+
+      "chainId": 1,
+
+      "address": "0x56df7dd5e6476af94666e856c38aefc4d4555861",
+
+      "name": "Dinosaur Coin",
+
+      "symbol": "DINOC",
+
+      "decimals": 18,
+
+      "logoURI": "https://i.ibb.co/qMBzvt9/D2-1.png"
+
+      }
+
+    ],
+
+    "version": {
+
+      "major": 0,
+
+      "minor": 0,
+
+      "patch": 0
+
+    }
+
+}
