@@ -1,7 +1,7 @@
 {
 
   "name": "Dinosaur",
-  "logoURI": "https://i.ibb.co/6DndtSn/Background.png",
+  "logoURI": "https://raw.githubusercontent.com/lidongexr163/DinosaurToken/main/D1.svg",
 
   "keywords": [
 
@@ -28,7 +28,7 @@
 
       "decimals": 18,
 
-      "logoURI": "https://i.ibb.co/6DndtSn/Background.png"
+      "logoURI": "https://raw.githubusercontent.com/lidongexr163/DinosaurToken/main/D1.svg"
 
       }
 
