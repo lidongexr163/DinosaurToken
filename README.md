@@ -1,2 +1,0 @@
-# DinosaurToken
-DinosaurToken
